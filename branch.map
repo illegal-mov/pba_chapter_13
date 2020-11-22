@@ -1,0 +1,4 @@
+%rdi=$ # register (%) to be symbolized ($)
+%rdi=0 # register (%) with initial value 0
+%rsi=$ # register (%) to be symbolized ($)
+%rsi=0 # register (%) with initial value 0
